@@ -2,9 +2,9 @@
 
 Ovaj projekat se bavi predikcijom otkazivanja hotelskih rezervacija pomoću modela mašinskog učenja i veštačkih neuronskih mreža:
 
-- Logistic Regression
+- Logistička regresija
 - Random Forest
-- MLP (Multi-Layer Perceptron)
+- Višeslojne neuronske mreže sa eksperimentisanjem arhitektura
 
 Celokupan proces je implementiran u okviru Jupyter Notebook (`.ipynb`) datoteka koje su unapred pokrenute, tako da su svi grafikoni, metrike i rezultati odmah vidljivi.
 
